@@ -1,6 +1,6 @@
-# 💫 About Me:
+**# 💫 About Me:
 # 👋 Hi, I'm Muhammad Daniyal<br><br>### Full Stack Developer | MERN Stack Engineer | SaaS Builder<br><br>I'm a Full Stack Developer from Lahore, Pakistan, passionate about building modern web applications, scalable SaaS platforms, and practical software solutions.<br><br>🚀 **What I Do**<br>- Build full-stack applications using React.js, Next.js, Node.js, Express.js, and MongoDB.<br>- Develop scalable REST APIs and backend systems.<br>- Create responsive, modern user interfaces with TypeScript and Tailwind CSS.<br>- Build SaaS products, automation workflows, and business-focused applications.<br>- Work with SEO, website performance, and technical optimization.<br><br>💡 **Currently Building**<br>- Zyphuel – A fuel delivery platform.<br>- SaaS products and developer-focused tools.<br>- AI-powered automation and modern web applications.<br><br>🎯 **My Goal:** Build useful software that solves real-world problems through technology.<br><br>📍 Lahore, Pakistan 🇵🇰<br><br>🔗 Portfolio: https://mdkworks.online<br><br>💼 LinkedIn: https://www.linkedin.com/in/muhammad-daniyal490/<br><br>🌐 GitHub: https://github.com/daniyal44
-
+**
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/muhammakhan636) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/muhammad.daniyal.522942) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-daniyal490) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@m.daniyalkhan490) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Zyphuel) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/MDK-117) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Fun-Employer2252) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/daniyal444444) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Muhamma91173039) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@itxmtk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.daniyalkhan490@gmail.com) 
@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=daniyal44&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=daniyal44&limit=5&theme=dark&combine_all_yearly_contributions=true)
@@ -28,4 +28,4 @@
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/BeyondYoursThoughts) 
 
   
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
