@@ -28,4 +28,4 @@
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/BeyondYoursThoughts) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
